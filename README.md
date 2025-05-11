@@ -1,4 +1,12 @@
-## Hi there 👋
+• 👋🏾 Hi, I’m Moctar Sako
+
+• 🎓 I’m currently an undergraduate student at CUNY City Tech pursuing a Mechanical Engineering Major & Computer Science Minor
+
+• 🦾 Passionate about Engineering design, Manufacturing Engineering, Data Science, and IT operations
+
+• 📈 I’m looking to collaborate on interesting projects to enhance my knowledge in the broad field of tech
+
+• 📬 Contact me via email: moctar.sako@gmail.com or moctar.sako@mail.citytech.cuny.edu
 
 <!--
 **MocSako/MocSako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
