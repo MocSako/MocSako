@@ -2,7 +2,7 @@
 
 • 🎓 I’m currently an undergraduate student at CUNY City Tech pursuing a Mechanical Engineering Major & Computer Science Minor
 
-• 🦾 Passionate about Software Engineering With a focus in Product, Engineering Design, and Data Science
+• 🦾 Passionate about Software Engineering with a focus in Product, Engineering Design, and Data Science
 
 • 📈 I’m looking to collaborate on interesting projects to enhance my knowledge in the broad field of tech
 
